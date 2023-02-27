@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JCleanEmpyFolder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/JCleanEmpyFolder.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
